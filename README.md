@@ -6,7 +6,7 @@
 
 ## What is GoGoCode? hahaha
 
-哈？神马玩意
+哈？神马玩意？ 害 没啥玩意！啦啦啦
 
 [中文 README](README-cn.md)
 
